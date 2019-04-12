@@ -1,7 +1,7 @@
 # LatihanCRUD_Nabila
 
 ![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/4.jpg)
-![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/5.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/5.png)
 ![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/6.jpg)
 ![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/7.jpg)
 ![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/8.jpg)
