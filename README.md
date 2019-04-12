@@ -1,0 +1,18 @@
+# LatihanCRUD_Nabila
+
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/4.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/5.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/6.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/7.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/8.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/9.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/10.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/11.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/12.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/13.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/14.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/15.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/16.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/17.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/18.jpg)
+![alt text](https://github.com/NabilaRahmadanti/LatihanCRUD_Nabila/blob/master/19.jpg)
